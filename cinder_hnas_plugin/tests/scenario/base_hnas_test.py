@@ -14,13 +14,13 @@
 #    under the License.
 
 from oslo_log import log as logging
-from tempest.common.utils import data_utils
-from tempest.common import waiters
 from tempest import config
 from tempest.lib.common.utils import test_utils
 from tempest.scenario import manager
 
-from cinder_hnas_plugin.tests.utils.hnas import clients
+from cinder_hnas_plugin.tests.utils import data_utils
+from cinder_hnas_plugin.tests.utils import waiters
+from cinder_hnas_plugin.tests.utils import clients
 import time
 
 CONF = config.CONF
