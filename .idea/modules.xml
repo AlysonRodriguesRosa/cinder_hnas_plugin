@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../internal_Gerrit_Repos/hds-openstack-tempest/.idea/hds-openstack-tempest.iml" filepath="$PROJECT_DIR$/../internal_Gerrit_Repos/hds-openstack-tempest/.idea/hds-openstack-tempest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hnas-cinder-plugin-tempest.iml" filepath="$PROJECT_DIR$/.idea/hnas-cinder-plugin-tempest.iml" />
     </modules>
   </component>

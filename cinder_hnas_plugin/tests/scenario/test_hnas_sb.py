@@ -20,7 +20,7 @@ from tempest.lib import decorators
 from tempest.lib import exceptions
 from tempest import test
 
-from cinder_hnas_plugin.tests.utils.hnas import clients
+from cinder_hnas_plugin.tests.utils import clients
 from cinder_hnas_plugin.tests.scenario import base_hnas_test as base_hnas
 
 import testtools

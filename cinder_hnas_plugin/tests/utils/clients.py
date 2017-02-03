@@ -23,7 +23,7 @@ import time
 
 import logging
 
-from cinder_hnas_plugin.tests.utils.hnas import remote_client
+from cinder_hnas_plugin.tests.utils import remote_client
 
 LOG = logging.getLogger(__name__)
 
